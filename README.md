@@ -1,5 +1,8 @@
 # Kotlin Android Crypto Tracker
 
+[![CI](https://github.com/GuilhermeCostaProenca/kotlin-android-crypto-tracker/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/GuilhermeCostaProenca/kotlin-android-crypto-tracker/actions/workflows/ci.yml)
+
+
 Android app in Kotlin to monitor cryptocurrency prices.
 
 ## Highlights
@@ -33,3 +36,4 @@ Active and maintained.
 ## Author
 **Guilherme Costa Proenca**
 - GitHub: https://github.com/GuilhermeCostaProenca
+
